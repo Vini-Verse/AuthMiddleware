@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthMiddleware", "AuthMiddleware.csproj", "{5CFDFC28-67BE-465B-818E-6C8C2058C520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFDFC28-67BE-465B-818E-6C8C2058C520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFDFC28-67BE-465B-818E-6C8C2058C520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFDFC28-67BE-465B-818E-6C8C2058C520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFDFC28-67BE-465B-818E-6C8C2058C520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A56329-0456-4C3A-A399-23181D51192B}
+	EndGlobalSection
+EndGlobal
