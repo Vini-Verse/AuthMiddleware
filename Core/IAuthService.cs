@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AuthMiddleware.Core
 {
-    interface IAuthService
+    public interface IAuthService
     {
         Task<AuthResult> RegisterAsync(RegisterRequest request);
         Task<AuthResult> LoginAsync(LoginRequest request);
